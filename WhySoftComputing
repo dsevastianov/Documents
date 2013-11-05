@@ -1,0 +1,16 @@
+This is a first installment in series of posts aimed at popularization of some of the more arcane theories and methods of fuzzy and interval mathematics and their application in finance.
+
+The question I'll try to answer today is - why bother?
+
+We hear so much about complexity and sophistication of financial systems: risk evaluation,  complex hedging strategies, high frequency trading, credit risk derivative modelling - it all sounds very serious and scientific. Common wisdom on the subject is that this complexity is the main reason for the financial crisis.
+
+However, it is not the complexity itself that shook world financial system. The credit crunch is also a reflection of crisis of science in finance and economics. It is enough to look at <a href="http://en.wikipedia.org/wiki/Value_at_risk#Criticism">discussion</a> around Value at Risk to clearly see deep issues in the very basic assumptions made by financial professionals when evaluating risk. Anyone familiar with the field knows name of <a href="http://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb">Nassim Taleb</a> and his fervent critique of wide-spread methods of risk evaluation.
+
+It might sound controversial, but in fact economics is quite conservative when it comes to mathematical apparatus it employs. Despite all the hipe around creativity of hedge fund wizards, they stick to <a href="http://en.wikipedia.org/wiki/Bayesian_probability">the most classic probability interpretation</a>. In fact, the same is true for Big Data analysis, Machine Learning and other hot fields of computing.
+
+Here I will talk about some interesting theories and techniques still finding their way into mainstream financial analysis while being widely accepted in engineering and other fields for a long time. My main inspiration was this book:<a href="http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-17718-7"> Soft Computing in Economics and Finance</a>.
+
+<strong>The list of posts in this series:</strong>
+<ul>
+	<li><a title="Tackling uncertainty" href="http://fuzzyfsharp.wordpress.com/2013/11/04/uncertainty/">Tackling uncertainty</a></li>
+</ul>
